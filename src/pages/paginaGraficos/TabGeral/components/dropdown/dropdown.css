@@ -1,0 +1,23 @@
+#tab-geral .input-container,
+#tab-outros .input-container {
+    margin-left: 10px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+#tab-geral .input-container label,
+#tab-outros .input-container label {
+    margin-bottom: 0;
+
+    color: black;
+    font-family: Roboto;
+    font-weight: normal;
+}
+
+#tab-geral .input-container #axis-X,
+#tab-geral .input-container #axis-Y,
+#tab-outros .input-container #axis-X,
+#tab-outros .input-container #axis-Y {
+    margin-bottom: 10px;
+}

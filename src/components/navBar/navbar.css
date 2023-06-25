@@ -1,0 +1,21 @@
+.navbar {
+    position: absolute;
+
+    background-color: black;
+
+    width: 100%;
+}
+
+.navbar .navbar-brand .logo {
+    width: 12vw;
+    max-width: 180px;
+}
+
+.navbar #navbarNav .navbar-nav .nav-item {
+    color: white;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+}
